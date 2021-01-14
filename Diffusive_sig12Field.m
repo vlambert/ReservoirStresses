@@ -1,7 +1,7 @@
 %% % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 %                  Shear stress, Sigma_12 / mu             %  
 %         at time t for reservoir with diffusivity c       %
-%                  (Lambert and Tsai, 2019)                %  
+%                  (Lambert and Tsai, 2020)                %  
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %%
 %                     Free Surface
 %   <----------------------------------------------------> x1

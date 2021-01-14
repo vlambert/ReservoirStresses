@@ -1,7 +1,7 @@
 %% % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 %            Vertical normal stress, Sigma_22 / mu         %  
 %                 Fixed, uniform reservoir                 %
-%           (Segall, 1989; Lambert and Tsai, 2019)         %  
+%           (Segall, 1989; Lambert and Tsai, 2020)         %  
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %%
 %                     Free Surface
 %   <----------------------------------------------------> x1

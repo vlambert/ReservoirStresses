@@ -1,7 +1,7 @@
 %% % % % % % % % % % % % % % % % % % % % % % % % % % % % % %
 %            Horizontal surface displacements, u1          %  
 %                 Fixed, uniform reservoir                 %
-%           (Segall, 1989; Lambert and Tsai, 2019)         %  
+%           (Segall, 1989; Lambert and Tsai, 2020)         %  
 % % % % % % % % % % % % % % % % % % % % % % % % % % % % % %%
 %                     Free Surface
 %   <----------------------------------------------------> x1
